@@ -68,6 +68,7 @@ Controller → Service → Repository → Database
 ---
 
 ## 📂 Project Structure
+```
 src/main/java
 └── com.bank.BankingApplication
     ├── controller
@@ -85,6 +86,7 @@ src/main/java
     ├── mapper
     │   └── AccountMapper.java
     └── BankingApplication.java
+```
 
 ---
 
